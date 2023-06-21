@@ -45,4 +45,4 @@ Certifique-se de ter os seguintes requisitos instalados:
 
 - Para exibir uma saída mais detalhada durante a execução do script, digite 'y' quando solicitado a opção verbose.
 
-Aproveite a exploração das notícias da HackerNews com este script de raspagem!
+Aproveite a exploração das notícias da HackerNews com este script de coleta!
